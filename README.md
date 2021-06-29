@@ -1,6 +1,7 @@
 # DSI_Task-1
 
 Store Management System
+
 Programming Language : Java
 
 Functions :
@@ -12,6 +13,7 @@ Functions :
 6. See available balance
 
 Solution :
+
 For Store Managrment System five clases are designed to perform all the functions.
 
 1. Product class : It contains all the specifications of a product such as product name, buy price, sell price, available in stock.
