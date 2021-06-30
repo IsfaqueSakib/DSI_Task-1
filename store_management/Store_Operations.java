@@ -109,6 +109,7 @@ public class Store_Operations {
 			
 			else if(choice == 0) {
 				//exit command line
+				System.out.println("============= Exit Command Line ===============");
 				System.exit(0);
 			}
 			
